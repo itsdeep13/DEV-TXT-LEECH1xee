@@ -28,7 +28,7 @@ PyJWT==2.8.0
 yt-dlp==2026.2.4
 mutagen==1.46.0
 ffmpeg-python==0.2.0
-pillow==10.3.0
+pillow==12.1.0
 m3u8==6.0.0
 pytube==15.0.0
 wget==3.2
